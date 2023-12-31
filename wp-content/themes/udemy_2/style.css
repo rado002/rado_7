@@ -1,0 +1,60 @@
+body {
+    background-color: #87CEEB; /* Light blue, like a clear sky */
+    color: #1f2f47; /* Dark blue, for good contrast against the light background */
+    font-family: 'Roboto', sans-serif; /* A clean, modern font */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Sunshine yellow for headings */
+}
+
+a {
+    color: #1e81b0; /* Deeper blue for links, like the ocean */
+}
+
+.main {
+    margin: 15px 20%;
+}
+
+.navbar {
+    background-color: #1e81b0; /* Bright blue for the navigation bar */
+}
+
+.navbar a {
+    color: white; /* White text for contrast against the blue navbar */
+}
+
+.button {
+    background-color: #f9d71c; /* Sunshine yellow for buttons */
+    color: #1f2f47; /* Dark text on the buttons for readability */
+}
+
+.footer {
+    background-color: #1e81b0; /* Consistent blue for the footer */
+    color: white;
+}
+
+/* Decorative elements inspired by a sunny day */
+.header {
+    background-image: url('sunny-sky.png'); /* A sunny sky background image */
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+/* Hover effects for interactive elements */
+a:hover, .button:hover {
+    color: #ffcc00; /* A brighter yellow for hover effects */
+}
+
+/* Custom styles for sunny theme */
+.sunny-decor {
+    color: #f9d71c; /* Elements in sunshine yellow */
+    font-family: 'Dancing Script', cursive; /* A playful font for special sections */
+}
+
+.container {
+    width: 90%; /* A slightly narrower container than the default */
+    margin: auto;
+    overflow: auto;
+}
