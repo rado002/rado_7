@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'rado_6' );
+define( 'DB_NAME', 'rado_7' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -57,8 +57,8 @@ define( 'SECURE_AUTH_SALT', 'xViy2B#UDLD)2~PNTd#uol]2yuSAS:DEo/Wt*f>sD@*]=Y%2Be0
 define( 'LOGGED_IN_SALT',   'Wlcn)|?q^JageFpj(UPxl~x/k,$KxPJz|gF<O=^QHq0[!b=j#`Cj#e(Gp]xFOhfG' );
 define( 'NONCE_SALT',       '@kS%8[ c$*Bi n]NT86=}eB8fPB`&9EHJzTI9B5+ p?C`e2ylNZZil!,AE3$w{Xh' );
 
-define('WP_HOME', 'http://localhost/rado_6');
-define('WP_SITEURL', 'http://localhost/rado_6');
+define('WP_HOME', 'http://localhost/rado_7');
+define('WP_SITEURL', 'http://localhost/rado_7');
 
 
 /**#@-*/
