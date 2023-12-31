@@ -1,0 +1,17 @@
+/*
+
+Theme Name: motive_3
+Description: motive_3 like before
+Author: rad max
+Template: twentytwelve
+Version: 1.0
+
+*/
+
+@import url('../twentytwelve/style.css');
+
+.main-navigation li a:hover {
+    display: block;
+    background: #000;
+    color: #fff;    
+}
